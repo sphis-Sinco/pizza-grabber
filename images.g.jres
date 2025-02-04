@@ -1,0 +1,19 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADw//8AAAAA8F8l8gAAAAAvUlUPAAD/8FVVIg8A8O4vVVUiDwDv7i8lUvUAAO/u/iVS9QAA7+7uX1UPAADv7u7+JQ8AAO/u7u7/DwAA7+7u7u7+AADw7u7u7v4AAAD/7u7u/gAAAAD///8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pizza"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDIwMDAwZmYwZjAwMDAwMGZmMGYwMGZmMGYwMDAwMDBmZjBmMDBmMDAwZmZmZmZmZjAwMDAwZjBmZjc3Nzc3N2ZmMDAwMGYwN2Y3Nzc3Nzc3NzBmMDBmMDdmNzc3Nzc3NzcwZjAwZjA3Zjc3Zjc3MWYxMGYwMGYwN2Y3N2Y3NzFmMTBmMDBmMDc3NzdmNzdmZmYwZjAwZjA3Nzc3Nzc3Nzc3MGYwMDAwN2ZmNzc3NzdmNzAwMDAwMDdmZjdmZmZmZmYwMDAwMDBmMDc3Nzc3NzBmMDAwMDAwMDBmZmZmZmYwMDAwMDAwMDAwZjBmZjBmMDAwMDAwMDAwMGYwZmYwZjAwMDAwMGZmMDAwMDAwMDAwMGZmZjBmZjAwMDAwMDAwMDBmZmYwZmYwMGZmZmZmZjAwMGYwMGYwZmY3Nzc3NzdmZjAwMDBmMDc3Nzc3Nzc3NzcwZjAwZjA3Zjc3Nzc3Nzc3MGYwMGYwN2Y3N2Y3NzFmMTBmMDBmMDdmNzdmNzcxZjEwZjAwZjA3Nzc3Zjc3ZmZmMGYwMGYwNzc3Nzc3Nzc3NzBmMDAwMDdmZjc3Nzc3ZjcwMDAwMDA3ZmY3ZmZmZmZmMDAwMGZmZmY3Nzc3NzcwZjAwMDBmZjAwZmZmZmZmZjAwZjAwZmYwMDAwMDBmMGZmMGYwMDAwMDAwMDAwMDBmZjAw",
+        "displayName": "player"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
